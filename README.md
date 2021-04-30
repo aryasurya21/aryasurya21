@@ -2,8 +2,6 @@
 
 <p align="left">I'm a software engineer based in Jakarta.</p>
 
-💻 Software Engineer at [Tokopedia](https://apps.apple.com/us/app/tokopedia/id1001394201)
-
 🎯 Currently (re)learning algorithms and data structures.
 
 🌐 Visit my portfolio at [https://aryasurya.netlify.app/](https://aryasurya.netlify.app/)
