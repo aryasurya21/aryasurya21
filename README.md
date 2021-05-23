@@ -13,7 +13,3 @@
     <img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-1.png" alt="@aryasurya" height="50" width="50" />
   </a>
 </p>
-
-<p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=aryasurya21&show_icons=true&theme=radical&title_color=f5ec00&locale=en" alt="aryasurya21" />
-</p>
