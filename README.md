@@ -1,16 +1,8 @@
 ### Hello, I'm Arya 👋👋
 
-<p align="left">I'm a software engineer based in Jakarta.</p>
-
 🎯 Currently (re)learning algorithms and data structures.
 
-🌐 Visit my portfolio at [https://aryasurya.netlify.app/](https://aryasurya.netlify.app/)
-
-📝 Read my articles at [https://aryasurya.medium.com/](https://aryasurya.medium.com/)
-
 📫 Mail me at arya.surya021@gmail.com
-
-🍜 Fun fact : **I love noodles so much that i made an instagram account posting every noodles i cooked.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
