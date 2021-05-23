@@ -1,4 +1,4 @@
-### Hello, I'm Arya 👋👋
+### Hello, Arya here 👋👋
 
 🎯 Currently (re)learning algorithms and data structures.
 
