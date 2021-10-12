@@ -5,5 +5,5 @@
 🖋️ Visit my [Medium](https://www.medium.com/@aryasurya) <br/>
 📫 Contact me through [LinkedIn](https://www.linkedin.com/in/arya-surya013/) <br/>
   
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=21oqmlassfmetfdofzin2jdca&cover_image=true&theme=default"/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=21oqmlassfmetfdofzin2jdca&cover_image=true&theme=default" width="265" height="400"/>
   
